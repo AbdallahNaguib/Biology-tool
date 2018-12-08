@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1544293297 source:e:\my work\c++\assignment4.2\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<DNA.h>
+	<RNA.h>
+	<Protein.h>
+
+1544292453 source:e:\my work\c++\assignment4.2\src\dna.cpp
+	"DNA.h"
+	<RNA.h>
+
+1544281150 e:\my work\c++\assignment4.2\include\dna.h
+	<Sequence.h>
+	<iostream>
+	<fstream>
+
+1544274701 e:\my work\c++\assignment4.2\include\sequence.h
+	<string>
+
+1544272827 source:e:\my work\c++\assignment4.2\src\protein.cpp
+	"Protein.h"
+	<string>
+
+1544272827 e:\my work\c++\assignment4.2\include\protein.h
+	<Sequence.h>
+	<DNA.h>
+
+1544293356 source:e:\my work\c++\assignment4.2\src\rna.cpp
+	"RNA.h"
+	<Protein.h>
+
+1544292797 e:\my work\c++\assignment4.2\include\rna.h
+	<string>
+	<Sequence.h>
+	<DNA.h>
+	<fstream>
+
+1544271270 source:e:\my work\c++\assignment4.2\src\sequence.cpp
+	"Sequence.h"
+	<iostream>
+	<cstring>
+
